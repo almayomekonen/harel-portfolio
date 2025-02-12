@@ -95,7 +95,7 @@ button {
   left: 20px;
   background-color: #fdbd03;
   border-radius: 50%;
-  width: 50px;
+  width: 43px;
   padding: 10px;
 }
 
@@ -153,6 +153,7 @@ button {
 @media screen and (max-width: 480px) {
   .form-section h2 {
     font-size: 2rem;
+    margin-top: 5rem;
   }
 
   .form-section p {
@@ -171,7 +172,7 @@ button {
   }
 
   .whatsapp-icon {
-    width: 35px;
+    width: 28px;
   }
 
   .whatsapp-icon img {
