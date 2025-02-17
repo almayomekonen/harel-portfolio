@@ -44,6 +44,7 @@ header .buttons a {
   margin: 0 10px;
   display: inline-block;
   transition: background-color 0.3s ease, color 0.3s ease;
+  margin-bottom: 10px;
 }
 
 header .buttons a:hover {
